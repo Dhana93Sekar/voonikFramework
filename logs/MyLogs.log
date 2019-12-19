@@ -1,0 +1,19 @@
+[INFO ] 2019-12-11 07:03:26.107 [main] Log4j_Reports - This is information message
+[ERROR] 2019-12-11 07:03:26.113 [main] Log4j_Reports - This is an error message
+[WARN ] 2019-12-11 07:03:26.113 [main] Log4j_Reports - This is warning message
+[FATAL] 2019-12-11 07:03:26.113 [main] Log4j_Reports - This is fatal message
+[INFO ] 2019-12-11 13:19:47.433 [main] TC_001_HomePageVerify - Shop for Women Category dispalyed
+[INFO ] 2019-12-11 13:24:23.599 [main] TC_001_HomePageVerify - Shop for Women Category dispalyed
+[INFO ] 2019-12-11 13:25:18.523 [main] TC_001_HomePageVerify - Shop for Women Category dispalyed
+[INFO ] 2019-12-11 13:25:23.685 [main] TC_001_HomePageVerify - Scrolled succesfully to T-shirts menu
+[INFO ] 2019-12-11 13:25:24.009 [main] TC_001_HomePageVerify - Shop for Men Category dispalyed
+[INFO ] 2019-12-11 13:25:26.673 [main] TC_001_HomePageVerify - Mens Category Menu's displayed
+[INFO ] 2019-12-11 13:43:34.462 [main] TC_001_HomePageVerify - Shop for Women Category dispalyed
+[INFO ] 2019-12-11 13:43:37.428 [main] TC_001_HomePageVerify - Scrolled succesfully to T-shirts menu
+[INFO ] 2019-12-11 13:43:37.788 [main] TC_001_HomePageVerify - Shop for Men Category dispalyed
+[INFO ] 2019-12-11 14:24:52.127 [main] TC_001_HomePageVerify - Shop for Women Category dispalyed
+[INFO ] 2019-12-11 14:27:01.960 [main] TC_001_HomePageVerify - Shop for Women Category dispalyed
+[INFO ] 2019-12-11 14:27:07.109 [main] TC_001_HomePageVerify - Scrolled succesfully to T-shirts menu
+[INFO ] 2019-12-11 14:27:07.390 [main] TC_001_HomePageVerify - Shop for Men Category dispalyed
+[INFO ] 2019-12-11 14:27:09.820 [main] TC_001_HomePageVerify - Mens Category Menu's displayed
+[INFO ] 2019-12-11 16:39:45.412 [main] TC_001_HomePageVerify - Shop for Women Category dispalyed
